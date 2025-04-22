@@ -38,7 +38,7 @@ A basic voting system implemented in Solidity. Built and tested in [Remix IDE](h
 ---
 
 ## 📷 Screenshot 
-![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/agneya-1402/Blockchain_Voting/blob/main/output.png))
+![Output](https://github.com/agneya-1402/Blockchain_Voting/blob/main/output.png)
 
 ---
 
